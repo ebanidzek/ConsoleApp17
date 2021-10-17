@@ -10,7 +10,7 @@ namespace ConsoleApp17
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("драстье");
+            Console.WriteLine("драстье, чушка");
 
         }
     }
